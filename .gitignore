@@ -1,0 +1,10 @@
+.git.disabled-by-terminal-fix/
+__pycache__/
+.pytest_cache/
+.venv/
+artifacts/
+*.log
+*.status
+*.jsonl
+*_results.json
+
